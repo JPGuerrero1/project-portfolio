@@ -20,9 +20,9 @@ This challenge helps developers learn about formatting their projects and organi
 
 ## Preview
 
-![porfolio preview]()
+![Webpage](https://user-images.githubusercontent.com/95624362/228958538-1945a606-9238-41e1-8f07-28c6c19de70f.png)
 
-Deployed Porfolio link: https://jpguerrero1.github.io/HTML-CSS-Concepts/
+Deployed Porfolio link: https://jpguerrero1.github.io/project-portfolio/
 
 ## License
 
